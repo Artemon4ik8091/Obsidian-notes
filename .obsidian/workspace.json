@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Антикафе \"Квартира\".md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Антикафе \"Квартира\""
+              "title": "README"
             }
           }
         ]
@@ -195,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37c5dcd51f4ae7ee",
+  "active": "96df4f6e0ad87aab",
   "lastOpenFiles": [
-    "README.md",
     "Антикафе \"Квартира\".md",
+    "README.md",
     "НПИ/Проект./Модуль оплаты картой.md",
     "НПИ/Проект./Проектная деятельность.md",
     "НПИ/Проект./Календарный план проекта.md",

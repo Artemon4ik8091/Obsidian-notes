@@ -1,7 +1,3 @@
-# college-project
+# Заметки
 
-test
-
-Ещё тест.
-
-xd
+Чисто мои заметки из Obsidian.
