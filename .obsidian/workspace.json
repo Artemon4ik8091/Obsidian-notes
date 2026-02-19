@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Антикафе \"Квартира\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Антикафе \"Квартира\""
             }
           }
         ]
@@ -195,8 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96df4f6e0ad87aab",
+  "active": "37c5dcd51f4ae7ee",
   "lastOpenFiles": [
+    "README.md",
+    "Антикафе \"Квартира\".md",
     "НПИ/Проект./Модуль оплаты картой.md",
     "НПИ/Проект./Проектная деятельность.md",
     "НПИ/Проект./Календарный план проекта.md",
@@ -207,7 +209,6 @@
     "Ещё диалог с ИИ 2.md",
     "НПИ/Проект./записка информационная хз.md",
     "НПИ/ДЗ.md",
-    "README.md",
     "Прочая ересь.md",
     "НПИ/Без названия.md",
     "НПИ/Электрички и автобусы. Их расписание..md",
